@@ -12,8 +12,6 @@ A personalized recommendation engine built using User Behavior Data (RetailRocke
 - [Model Evaluation & Results](#-model-evaluation--results)
 - [Sample Output](#-sample-output)
 - [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🚀 Project Overview
 This project focuses on transforming raw e-commerce interaction data (views, add-to-carts, transactions) into an actionable recommendation dashboard. By analyzing past behaviors, the system identifies patterns and predicts the likelihood of a user being interested in items they haven't seen yet.
