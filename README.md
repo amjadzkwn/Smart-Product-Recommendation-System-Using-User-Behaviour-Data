@@ -7,12 +7,9 @@ A personalized recommendation engine built using User Behavior Data (RetailRocke
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
-- [Tech Stack](#-tech-stack)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
 - [Model Evaluation & Results](#-model-evaluation--results)
-- [Installation & Setup](#-installation--setup)
-- [Usage Guide](#-usage-guide)
 - [Sample Output](#-sample-output)
 - [Future Improvements](#-future-improvements)
 - [Contributing](#-contributing)
@@ -130,7 +127,7 @@ Recommendations for Visitor ID: 1244559
 
 ![id1244559](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/5792b9450c2904777e099c85e8d600459b73dede/results/recommendation_id1244559.png)
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - Implement Deep Learning models (Neural Collaborative Filtering)
 - Add real-time A/B testing framework
 - Integrate content-based filtering for cold-start items
