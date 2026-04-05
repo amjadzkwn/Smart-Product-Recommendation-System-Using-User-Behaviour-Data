@@ -121,15 +121,15 @@ Recommendations for Visitor ID: 2
 
 Recommendations for Visitor ID: 17
 
-![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+![id17](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/a40de3876c3931a800d0ce63364105ace3eaeac0/results/recommendation_id17.png)
 
 Recommendations for Visitor ID: 64
 
-![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+![id64](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
 
 Recommendations for Visitor ID: 1244559
 
-![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+![id1244559](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
 
 🔮 Future Improvements
 - Implement Deep Learning models (Neural Collaborative Filtering)
