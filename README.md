@@ -113,7 +113,7 @@ Using Grid Search with 3-fold cross-validation, the model was fine-tuned to find
 ## 💡 Sample Output
 Recommendations for Visitor ID: 2
 
-Screenshot streamlit
+![Screenshot Streamlit App](screenshots/dashboard.png)
 
 🔮 Future Improvements
 - Implement Deep Learning models (Neural Collaborative Filtering)
