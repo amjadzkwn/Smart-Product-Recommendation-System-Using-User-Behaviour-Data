@@ -125,7 +125,7 @@ Recommendations for Visitor ID: 17
 
 Recommendations for Visitor ID: 64
 
-![id64](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+![id64](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/8df2d4e874ba7ec2cee1c0fc2377d4d933c61b1a/results/recommendation_id64.png)
 
 Recommendations for Visitor ID: 1244559
 
