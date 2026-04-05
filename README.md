@@ -117,7 +117,7 @@ Screenshot Streamlit App
 
 Recommendations for Visitor ID: 2
 
-![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+![id2](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/345bb6fad4f6b636bed91353dfcfd0e121254e97/results/recommendation_id2.png)
 
 Recommendations for Visitor ID: 17
 
