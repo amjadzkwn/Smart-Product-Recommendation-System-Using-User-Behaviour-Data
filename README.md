@@ -108,7 +108,6 @@ Using Grid Search with 3-fold cross-validation, the model was fine-tuned to find
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
-- Git (optional)
 
 ## 💡 Sample Output
 Screenshot Streamlit App
