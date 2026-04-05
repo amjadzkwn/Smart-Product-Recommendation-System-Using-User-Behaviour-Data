@@ -129,7 +129,7 @@ Recommendations for Visitor ID: 64
 
 Recommendations for Visitor ID: 1244559
 
-![id1244559](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+![id1244559](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/5792b9450c2904777e099c85e8d600459b73dede/results/recommendation_id1244559.png)
 
 🔮 Future Improvements
 - Implement Deep Learning models (Neural Collaborative Filtering)
