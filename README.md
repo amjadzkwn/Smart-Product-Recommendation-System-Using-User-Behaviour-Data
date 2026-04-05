@@ -111,9 +111,25 @@ Using Grid Search with 3-fold cross-validation, the model was fine-tuned to find
 - Git (optional)
 
 ## 💡 Sample Output
+Screenshot Streamlit App
+
+![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+
 Recommendations for Visitor ID: 2
 
-![Screenshot Streamlit App](screenshots/dashboard.png)
+![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+
+Recommendations for Visitor ID: 17
+
+![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+
+Recommendations for Visitor ID: 64
+
+![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
+
+Recommendations for Visitor ID: 1244559
+
+![Screenshot Streamlit App](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/58346cfcae3a27143d605b14bab61612dfc150c9/results/UI_example.png)
 
 🔮 Future Improvements
 - Implement Deep Learning models (Neural Collaborative Filtering)
