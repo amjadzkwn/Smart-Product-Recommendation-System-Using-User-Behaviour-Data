@@ -113,17 +113,45 @@ Recommendations for Visitor ID: 2
 
 ![id2](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/345bb6fad4f6b636bed91353dfcfd0e121254e97/results/recommendation_id2.png)
 
+Scenario: Active User with High Engagement (User ID: 2)
+Description: This user has a clear interaction history (4 items viewed).
+
+Observation: The system utilizes Matrix Factorization to identify latent features from the user's past interests (Interest Scores 1-3).
+
+Result: Recommendations show high Predicted Interest scores (up to 8.11), suggesting the model has high confidence in these items based on the user's specific behavioral patterns.
+
 Recommendations for Visitor ID: 17
 
 ![id17](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/a40de3876c3931a800d0ce63364105ace3eaeac0/results/recommendation_id17.png)
+
+Scenario: New User / Cold Start (User ID: 17)
+Description: This user has empty interaction history (No previous views or clicks).
+
+Observation: This demonstrates how the system handles the "Cold Start" problem. Since there is no user-specific data, the model defaults to Global Popularity or baseline biases.
+
+Result: Item 40870 appears as the top rank, similar to other users, indicating it is a trending or highly-rated item across the entire platform.
 
 Recommendations for Visitor ID: 64
 
 ![id64](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/8df2d4e874ba7ec2cee1c0fc2377d4d933c61b1a/results/recommendation_id64.png)
 
+Scenario: Diverse Interest Profile (User ID: 64)
+Description: A user with multiple low-to-medium interest interactions across different items.
+
+Observation: The model balances popular items with specific category-based filtering.
+
+Result: The system suggests items like 306289 and 396064, which possess specific property tags, showing the model's ability to map user interest to complex item attributes.
+
 Recommendations for Visitor ID: 1244559
 
 ![id1244559](https://github.com/amjadzkwn/Smart-Product-Recommendation-System-Using-User-Behaviour-Data/blob/5792b9450c2904777e099c85e8d600459b73dede/results/recommendation_id1244559.png)
+
+Scenario: Established User Profile (User ID: 1244559)
+Description: A user with a consistent history of multiple interactions.
+
+Observation: The SVD algorithm effectively minimizes the RMSE (Root Mean Square Error) for this user by aligning predicted interest with their historical data.
+
+Result: The system generates a personalized list where items have very close predicted scores (5.34 - 7.66), providing a diversified yet relevant selection of products.
 
 ## 🔮 Future Improvements
 - Implement Deep Learning models (Neural Collaborative Filtering)
