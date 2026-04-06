@@ -40,34 +40,6 @@ This project focuses on transforming raw e-commerce interaction data (views, add
 - **Interactive Visualizations**: View user interaction patterns, category distributions, and recommendation confidence scores
 - **Export Functionality**: Download recommendation results for further analysis
 
-## 📁 Project Structure
-Smart-Product-Recommendation-System/
-│
-├── data/
-│ ├── raw/ # Original RetailRocket dataset
-│ └── processed/ # Cleaned and transformed data
-│
-├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_data_preprocessing.ipynb
-│ └── 03_model_training.ipynb
-│
-├── src/
-│ ├── data_processing.py # Data cleaning and feature engineering
-│ ├── model_training.py # SVD model training and evaluation
-│ └── utils.py # Helper functions
-│
-├── app/
-│ └── streamlit_app.py # Main dashboard application
-│
-├── models/
-│ └── svd_model.pkl # Trained SVD model
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-
-
 ## 📊 Model Evaluation & Results
 To ensure the highest accuracy, the system underwent rigorous testing and optimization:
 
